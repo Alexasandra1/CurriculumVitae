@@ -38,12 +38,12 @@ static int GenerateCombinationsHelper(int[] S, int length, int index, int[] curr
     }
 ```
 
-* **Work experience**
-
-Первый проект на GitHub: [github](https://github.com/Alexasandra1/CV.MD.git "link")
-
 * **Courses**
     * _.NET Development_
     * _freeCodeCamp_
 
 * **English level**: B1
+
+* **Picture**
+
+<img src="img/kitty.jpg" width="75%" height="75%" />
